@@ -23,7 +23,7 @@ for i in range(total):
     n = i + 1
     n_list.append(n)
 
-    # random correct 2 digtis lottery
+    # random correct digtis lottery
     correct = random.randint(0, last_num) # 0 -> 00, 1 -> 01, 2 -> 02
     correct_list.append(correct)
 
