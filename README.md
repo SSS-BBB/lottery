@@ -36,3 +36,8 @@ we will random a number from 0 to 10^n - 1 two times. If they match then we will
 After that we will calculate the average of the money, and add it to the list, so we can plot those to the graph later.
 
 # Graph
+![alt text](https://github.com/SSS-BBB/lottery/blob/main/3digits_lottery.png)
+
+<center>This is a 3 digits random graph.</center>
+
+As you can see from the graph the result of the average money from the loop tend to come close to the expected value.
