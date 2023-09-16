@@ -6,6 +6,8 @@ Expected Value is the value that will predict the long term average out come of 
 
 we will use the concept of lottery, and dice to help us understand more about expected value
 
+https://en.wikipedia.org/wiki/Expected_value
+
 # Code
 ```python
 for i in range(total):
@@ -41,3 +43,7 @@ After that we will calculate the average of the money, and add it to the list, s
 <center>This is a 3 digits random graph.</center>
 
 As you can see from the graph the result of the average money from the loop tend to come close to the expected value.
+
+# A person who writes this code
+Suphawit Buaphan
+(นายศุภวิชญ์ บัวพันธ์)
